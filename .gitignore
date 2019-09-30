@@ -1,0 +1,11 @@
+bin
+obj
+*.log
+*.VC.db
+*.suo
+.vs
+.hg
+.hgignore
+Debug
+packages
+TestResults
